@@ -85,7 +85,7 @@ Run time : 296.1 s
 ```
 ## PA4：Routing congestion estimation based on Flute (Routing)
 ### Goal: Using Flute to transfer nets to rectilinear Steiner minimal trees (RSMT) and estimate routing congestion with them.
-### Ex: Benchmark adaptec1
-- Routing blockage                    Horizontal Routing Congestion                    Vertical Routing Congestion
+### Ex: Benchmark adaptec1 (Routing blockage |  Horizontal Routing Congestion | Vertical Routing Congestion)
+
 <img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA4_CE/output/adaptec1_block_dpx.png" width="33%" height="33%"><img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA4_CE/output/adaptec1_H_dpx.png" width="33%" height="33%"><img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA4_CE/output/adaptec1_V_dpx.png" width="33%" height="33%">
 
