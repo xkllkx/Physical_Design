@@ -12,6 +12,8 @@
 
 <img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA1_FM/FM.png" width="55%" height="55%">
 
+---
+
 ## PA2：Simulated Annealing Algorithm (Placement)
 ### Goal: Perturbation Randomly to place objects.
 #### Ex: Benchmark **ami33**
@@ -26,6 +28,8 @@
 - **ami33_3_10** ： H/W ratio 3 | white-space 10%
   
 <img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA2_SA/final_solution/ami33_3_10/ami33_3_10_651_1904.png" width="50%" height="50%"><img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA2_SA/final_solution/ami33_3_15/ami33_3_15_651_1904.png" width="50%" height="50%">
+
+---
 
 ## PA3：Improving Wirelength based on Abacus (Detail-Placement)
 ### Goal： Improving Wirelength in 5 minute
@@ -83,6 +87,8 @@ total_HPWL : 316232559 (93.2571 %)
 ===============================
 Run time : 296.1 s
 ```
+---
+
 ## PA4：Routing congestion estimation based on Flute (Routing)
 ### Goal： Using Flute to transfer nets to rectilinear Steiner minimal trees (RSMT) and estimate routing congestion with them.
 #### Ex： Benchmark adaptec1 (Routing blockage |  Horizontal Routing Congestion | Vertical Routing Congestion)
