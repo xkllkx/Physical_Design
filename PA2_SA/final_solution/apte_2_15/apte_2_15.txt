@@ -1,7 +1,0 @@
-Benchmark : apte.yal
-ratio : 2
-whitespace : 15 %
-Runtime : 5.805 s
-Wirelength : 271358.000000
-W_staridth : 5018
-H_stareight : 9518

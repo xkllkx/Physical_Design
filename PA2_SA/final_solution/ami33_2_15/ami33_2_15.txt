@@ -1,7 +1,0 @@
-Benchmark : ami33.yal
-ratio : 2
-whitespace : 15 %
-Runtime : 21.89 s
-Wirelength : 62006.000000
-W_staridth : 784
-H_stareight : 1589
