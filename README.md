@@ -16,10 +16,15 @@
 ### Goal: Perturbation Randomly to place objects.
 ### Ex: Benchmark ami33
 - H/W ratio 1 | white-space 10% (ami33_1_10)
+  
 <img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA2_SA/final_solution/ami33_1_10/ami33_1_10_1099_1127.png" width="50%" height="50%"><img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA2_SA/final_solution/ami33_1_15/ami33_1_15_1099_1127.png" width="50%" height="50%">
+
 - H/W ratio 2 | white-space 10% (ami33_2_10)
+  
 <img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA2_SA/final_solution/ami33_2_10/ami33_2_10_784_1589.png" width="50%" height="50%"><img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA2_SA/final_solution/ami33_2_15/ami33_2_15_784_1589.png" width="50%" height="50%">
+
 - H/W ratio 3 | white-space 10% (ami33_3_10)
+  
 <img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA2_SA/final_solution/ami33_3_10/ami33_3_10_651_1904.png" width="50%" height="50%"><img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA2_SA/final_solution/ami33_3_15/ami33_3_15_651_1904.png" width="50%" height="50%">
 
 ## PA3：Improving Wirelength based on Abacus (Detail-Placement)
@@ -78,9 +83,9 @@ total_HPWL : 316232559 (93.2571 %)
 ===============================
 Run time : 296.1 s
 ```
-## PA4：Routing congestion detection based on Flute (Routing)
+## PA4：Routing congestion estimation based on Flute (Routing)
+### Goal: Using Flute to transfer nets to rectilinear Steiner minimal trees (RSMT) and estimate routing congestion with them.
 ### Ex: Benchmark adaptec1
-<img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA4_CE/output/adaptec1_block_dpx.png" width="33%" height="33%">
-<img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA4_CE/output/adaptec1_H_dpx.png" width="33%" height="33%">
-<img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA4_CE/output/adaptec1_V_dpx.png" width="33%" height="33%">
+- Routing blockage                    Horizontal Routing Congestion                    Vertical Routing Congestion
+<img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA4_CE/output/adaptec1_block_dpx.png" width="33%" height="33%"><img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA4_CE/output/adaptec1_H_dpx.png" width="33%" height="33%"><img src="https://github.com/xkllkx/NCKU_Physical_Design/blob/main/PA4_CE/output/adaptec1_V_dpx.png" width="33%" height="33%">
 
