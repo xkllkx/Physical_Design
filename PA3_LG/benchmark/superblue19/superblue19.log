@@ -1,0 +1,45 @@
+============ SCL ==========
+NumRows : 2294
+Numrow_array : 2294
+----------
+============ NODE ==========
+NumNodes : 522775
+NumTerminals : 16678
+Numnode_array : 522775
+NumMovableNodes : 506097
+NumTerminal : 286
+NumTerminal_NI : 16392
+
+----------
+============ LEGAL ==========
+Numinitial_movable_node : 506097
+
+NumInRow : 506383 (506383)
+----------
+============ SHAPE ==========
+NumNonRectangularNodes : 22
+NumNonRect : 22
+----------
+========== NET ==========
+NumNets : 511685
+NumPins : 1714351
+Numnet_array : 511685
+----------
+Run time : 2.5 s
+=============== LG ===============
+============ ROW_LIST INITIAL ==========
+row_counter : 506383
+----------
+============ TOTAL HPWL_CAL ==========
+initial_HPWL : 167159492
+total_HPWL : 167159492 (100 %)
+----------
+=============== ITER 0 ===============
+Iter time : 148.36 s
+=============== ITER 1 ===============
+Iter time : 143.96 s
+============ TOTAL HPWL_CAL ==========
+total_HPWL : 159821604 (95.6102 %)
+----------
+===============================
+Run time : 295.55 s

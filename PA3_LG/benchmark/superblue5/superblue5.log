@@ -1,0 +1,55 @@
+============ SCL ==========
+NumRows : 2528
+Numrow_array : 2528
+----------
+============ NODE ==========
+NumNodes : 772457
+NumTerminals : 95041
+Numnode_array : 772457
+NumMovableNodes : 677416
+NumTerminal : 74365
+NumTerminal_NI : 20676
+
+----------
+============ LEGAL ==========
+Numinitial_movable_node : 677416
+
+NumInRow : 751781 (751781)
+----------
+============ SHAPE ==========
+NumNonRectangularNodes : 115
+NumNonRect : 115
+----------
+========== NET ==========
+NumNets : 786999
+NumPins : 2500306
+Numnet_array : 786999
+----------
+Run time : 3.68 s
+=============== LG ===============
+============ ROW_LIST INITIAL ==========
+row_counter : 751781
+----------
+============ TOTAL HPWL_CAL ==========
+initial_HPWL : 395385333
+total_HPWL : 395385333 (100 %)
+----------
+=============== ITER 0 ===============
+Iter time : 43.88 s
+=============== ITER 1 ===============
+Iter time : 45.88 s
+=============== ITER 2 ===============
+Iter time : 46.23 s
+=============== ITER 3 ===============
+Iter time : 46.62 s
+=============== ITER 4 ===============
+Iter time : 46.79 s
+=============== ITER 5 ===============
+Iter time : 46.44 s
+=============== ITER 6 ===============
+Iter time : 15.17 s
+============ TOTAL HPWL_CAL ==========
+total_HPWL : 369559200 (93.4681 %)
+----------
+===============================
+Run time : 295.93 s
